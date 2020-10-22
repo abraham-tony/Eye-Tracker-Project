@@ -11,5 +11,6 @@ python eyeris_detector.py
 
 Prerequisties:
 Python, OpenCV, Tensorflow, Dlib
+
 Install 68_face_landmarks_predictor.dat while running Eye Detection project
  
